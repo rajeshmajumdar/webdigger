@@ -13,6 +13,7 @@ Currently this tool is in beta stage. Need help in updating our database.
 
 usage:-  
 ./setup.py install
+
 ./webdigger.py
 
 Hope this tool will help you. 
