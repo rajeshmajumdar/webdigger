@@ -11,7 +11,9 @@ WebDigger digs into whois database and using brute-force. It tries to find every
 
 Currently this tool is in beta stage. Need help in updating our database.
 
-usage:-  ./webdigger.py
+usage:-  
+./setup.py install
+./webdigger.py
 
 Hope this tool will help you. 
 
