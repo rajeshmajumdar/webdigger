@@ -82,7 +82,7 @@ def crawler(): #main function
             print (Fore.BLUE+"[***] Give me a moment.[***]")
             for x in payload:
                 finalurl = site+str(x)
-                os.system('whois.py '+finalurl)
+                os.system('whois.pyc '+finalurl)
                 with open('output.txt') as response:
                     for line in response:
                         if "No match for" in line:
